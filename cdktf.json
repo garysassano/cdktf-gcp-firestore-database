@@ -1,0 +1,13 @@
+{
+  "language": "python",
+  "app": "poetry run python3 main.py",
+  "projectId": "e51719c8-3352-4dca-a6c9-1cf2cde5fa0c",
+  "sendCrashReports": "false",
+  "terraformProviders": [],
+  "terraformModules": [],
+  "codeMakerOutput": "imports",
+  "context": {
+    "excludeStackIdFromLogicalIds": "true",
+    "allowSepCharsInLogicalIds": "true"
+  }
+}
